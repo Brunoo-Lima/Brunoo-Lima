@@ -117,10 +117,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Frontend Developer** \
 [**Mestresdaweb**](https://www.mestresdaweb.com.br/) • Estágio \
 Linguagens & Tecnologias: `React`, `Nextjs`, `Typescript `, `JavaScript`, `Scss`, `Styled-Components`,\
-Atividades: Atuação no desenvolvimento de aplicações web com foco em performance, experiência do usuário e responsividade.
-Participação em projetos utilizando tecnologias como React, Next.js, Typescript, Scss, Styled-Components e APIs REST.
-Construção de sites com foco em SEO, aplicação de dados estruturados, estratégias de trackeamento para análise de dados e conversão de leads.
-
 
 ### 📊 Estatísticas
 
