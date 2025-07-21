@@ -86,7 +86,7 @@ Olá, meu nome é Bruno Lima. Recentemente, realizei uma transição de carreira
     title="Nodejs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodedotjs/nodejs.svg" 
 />
 <img 
     align="left" 
@@ -97,8 +97,24 @@ Olá, meu nome é Bruno Lima. Recentemente, realizei uma transição de carreira
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+
 <br/>
 <br/>
+
+### 💼 Experiência
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Mestres da web" src="(https://www.mestresdaweb.com.br)"/>](https://www.mestresdaweb.com.br/)
+
+**Frontend Developer** \
+[**Mestresdaweb**]([https://www.spacex.com/](https://www.mestresdaweb.com.br/)) • Estágio \
+Linguagens & Tecnologias: `React`, `Nextjs`, `Typescript `JavaScript`, `Scss`, `Styled-Components`,\
+<br/>
+Atuação no desenvolvimento de aplicações web com foco em performance, experiência do usuário e responsividade.
+Participação em projetos utilizando tecnologias como React, Next.js, TailwindCSS e APIs REST.
+Com forte atenção às práticas de SEO, acessibilidade e estratégias de trackeamento para análise de dados e conversão.
+
 
 ### 📊 Estatísticas
 
