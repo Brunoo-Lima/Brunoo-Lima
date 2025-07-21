@@ -140,9 +140,4 @@ Construção de sites com foco em SEO, aplicação de dados estruturados, estrat
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoo-Lima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-
-[![card](https://github-readme-stats.vercel.app/api?username=Brunoo-Lima&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Brunoo-Lima](https://github-readme-stats.vercel.app/api?username=Brunoo-Lima&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 </p>
