@@ -104,10 +104,10 @@ Olá, meu nome é Bruno Lima. Recentemente, realizei uma transição de carreira
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Mestres da web" src="(https://www.mestresdaweb.com.br)"/>](https://www.mestresdaweb.com.br/)
+[<img align="left" height="94px" width="94px" alt="Mestres da web" src="https://www.mestresdaweb.com.br/wp/icons/logo.svg"/>](https://www.mestresdaweb.com.br/)
 
 **Frontend Developer** \
-[**Mestresdaweb**](https://www.mestresdaweb.com.br/)) • Estágio \
+[**Mestresdaweb**](https://www.mestresdaweb.com.br/) • Estágio \
 Linguagens & Tecnologias: `React`, `Nextjs`, `Typescript `, `JavaScript`, `Scss`, `Styled-Components`,\
 <br/>
 Atuação no desenvolvimento de aplicações web com foco em performance, experiência do usuário e responsividade.
