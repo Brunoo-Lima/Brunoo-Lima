@@ -108,8 +108,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Mestres da web" src="(https://www.mestresdaweb.com.br)"/>](https://www.mestresdaweb.com.br/)
 
 **Frontend Developer** \
-[**Mestresdaweb**]([https://www.spacex.com/](https://www.mestresdaweb.com.br/)) • Estágio \
-Linguagens & Tecnologias: `React`, `Nextjs`, `Typescript `JavaScript`, `Scss`, `Styled-Components`,\
+[**Mestresdaweb**](https://www.mestresdaweb.com.br/)) • Estágio \
+Linguagens & Tecnologias: `React`, `Nextjs`, `Typescript `, `JavaScript`, `Scss`, `Styled-Components`,\
 <br/>
 Atuação no desenvolvimento de aplicações web com foco em performance, experiência do usuário e responsividade.
 Participação em projetos utilizando tecnologias como React, Next.js, TailwindCSS e APIs REST.
