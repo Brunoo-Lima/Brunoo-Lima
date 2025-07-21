@@ -82,6 +82,22 @@ Olá, meu nome é Bruno Lima. Recentemente, realizei uma transição de carreira
 />
 <img 
     align="left" 
+    alt="Styled" 
+    title="Styled"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styled/styled.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma.svg" 
+/>
+<img 
+    align="left" 
     alt="Node.js" 
     title="Node.js"
     width="30px" 
