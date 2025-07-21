@@ -82,11 +82,11 @@ Olá, meu nome é Bruno Lima. Recentemente, realizei uma transição de carreira
 />
 <img 
     align="left" 
-    alt="Styled" 
-    title="Styled"
+    alt="Styled-Components" 
+    title="Styled-Components"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://simpleicons.org/?modal=icon&q=styledcomponents" 
+    src="[https://simpleicons.org/?modal=icon&q=styledcomponents](https://simpleicons.org/?modal=icon&q=styledcomponents)" 
 />
 <img 
     align="left" 
