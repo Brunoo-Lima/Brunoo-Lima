@@ -86,7 +86,7 @@ Olá, meu nome é Bruno Lima. Recentemente, realizei uma transição de carreira
     title="Styled"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styled/styled.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styled/styled-original.svg" 
 />
 <img 
     align="left" 
@@ -94,7 +94,7 @@ Olá, meu nome é Bruno Lima. Recentemente, realizei uma transição de carreira
     title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="left" 
@@ -102,7 +102,7 @@ Olá, meu nome é Bruno Lima. Recentemente, realizei uma transição de carreira
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodedotjs/nodejs.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodedotjs/nodejs-original.svg" 
 />
 <img 
     align="left" 
