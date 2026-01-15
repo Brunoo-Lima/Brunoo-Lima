@@ -123,7 +123,7 @@ Tecnologias: `React`, `Nextjs`, `Typescript `, `JavaScript`, `Scss`, `Styled-Com
 <img 
   align="left"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=Brunoo-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400"
+  src="https://github-readme-stats.vercel.app/api?username=Brunoo-Lima&show_icons=tru&theme=tokyonight&include_all_commits=true&cache_seconds=86400"
 />
 
 <img 
